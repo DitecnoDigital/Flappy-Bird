@@ -56,7 +56,7 @@ Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones 
     make all -> (Este comando va a ejecutar el comando de compilacion que esta en el Makefile)
 
 ### Realizado por:
-            Juan José Läderach con fines educativos el 8 de febrero del 2024
+            Juan José Läderach con fines educativos el 31 de marzo del 2024
 
 
 ## Puedes seguirme en:

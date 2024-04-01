@@ -7,7 +7,7 @@ Tutorial sobre como realizar el Flappy Bird en lenguaje C++ donde puedes ver el 
 ### ⭐️Youtube:
 
  #### 🕹 Flappy Bird
- [![](https://img.shields.io/badge/YouTube-Ajedrez-red)](https://www.youtube.com/watch?v=U2Hnl-RKpak)
+ [![](https://img.shields.io/badge/YouTube-FlappyBird-red)](https://www.youtube.com/watch?v=XZFQCEFNhEA)
 
 
  
